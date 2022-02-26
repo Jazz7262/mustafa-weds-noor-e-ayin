@@ -9,7 +9,7 @@ body {
     color: #ff9f45;
     text-align: center;
     background-color: #ffffff;
-    background-image: url("https://www.transparenttextures.com/patterns/diagmonds-light.png");
+    background-image: url("https://www.transparenttextures.com/patterns/grey-sandbag.png");
     overflow-x: hidden;
 }
 
@@ -20,7 +20,7 @@ h1 {
 /* Navbar Section */
 .navbar {
     padding: 1% 7%;
-    background-color: #D9534F;
+    background-color: #d9534f;
     color: white;
 }
 
@@ -35,7 +35,7 @@ h1 {
 /* Praising Content Section  */
 #praising-content {
     line-height: 1.5;
-    color: #FF9F45;
+    color: #ff9f45;
     padding: 7% 7%;
     text-align: justify;
     text-align-last: center;
@@ -43,13 +43,12 @@ h1 {
 
 #praising-content h2 {
     font-size: 1.8rem;
-    color: #FC4F4F;
+    color: #fc4f4f;
 }
 
 #praising-content h3 {
     font-size: 1.5rem;
     margin-top: 20px;
-
 }
 
 /* Slide Section */
@@ -88,7 +87,7 @@ h1 {
 
 .slide-content-bg .date {
     display: inline-block;
-    border: 1px solid #FF9F45;
+    border: 1px solid #ff9f45;
     border-radius: 5px;
     padding: 5px;
     -webkit-animation: glow 2s linear infinite;
@@ -113,7 +112,7 @@ h1 {
 
 /* Guest - Name Section */
 #guest {
-    background-color: #D9534F;
+    background-color: #d9534f;
     text-align: center;
     line-height: 2;
     color: white;
@@ -132,7 +131,7 @@ h1 {
 
 #couple .title-quote {
     padding-bottom: 15px;
-    border-bottom: 2px solid #D9534F;
+    border-bottom: 2px solid #d9534f;
 }
 
 #couple .row {
@@ -153,7 +152,7 @@ h1 {
 
 #couple .couple-img {
     width: 99.9%;
-    border: 2px solid #D9534F;
+    border: 2px solid #d9534f;
     border-radius: 50%;
 }
 
@@ -212,10 +211,10 @@ h1 {
 }
 
 #timeline .left {
-    border-right: 1px solid #D9534F;
+    border-right: 1px solid #d9534f;
 }
 #timeline .right {
-    border-left: 1px solid #D9534F;
+    border-left: 1px solid #d9534f;
 }
 
 /* Count Down Section */
@@ -229,7 +228,7 @@ h1 {
 }
 
 #count-down .main {
-    background-color: #D9534F;
+    background-color: #d9534f;
 }
 
 #count-down .col-lg-5,
@@ -243,7 +242,7 @@ h1 {
 }
 
 #count-down .title {
-    background-color: #D9534F86;
+    background-color: #d9534f86;
     padding: 20px;
 }
 
@@ -359,7 +358,7 @@ h1 {
 
 /* Modal Section */
 #my-modal .modal-content {
-    border: 2px solid #D9534F;
+    border: 2px solid #d9534f;
     border-radius: 2%;
 }
 
@@ -367,7 +366,7 @@ h1 {
     font-size: 1.5rem;
 }
 #my-modal .btn {
-    background-color: #D9534F;
+    background-color: #d9534f;
     color: white;
 }
 
@@ -476,7 +475,7 @@ h1 {
     #timeline .right,
     #timeline .left {
         border: none;
-        border-left: 2px solid #D9534F;
+        border-left: 2px solid #d9534f;
     }
 
     /* Count Down Section */
